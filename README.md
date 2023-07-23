@@ -8,7 +8,7 @@
  
 - <b>Microsoft Azure</b>
   
-   - [Creating A Resource And Storage Account] (https://github.com/Najirogi/Creating-A-StorageAccount) 
+   - [Creating A Resource And Storage Account](https://github.com/Najirogi/Creating-A-StorageAccount) 
    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NajiRogi/azure-network-protocols)
     
 
