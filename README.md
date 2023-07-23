@@ -8,7 +8,9 @@
  
 - <b>Microsoft Azure</b>
   
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NajiRogi/azure-network-protocols)
+   - [Creating A Resource And Storage Account] (https://github.com/Najirogi/Creating-A-StorageAccount) 
+   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NajiRogi/azure-network-protocols)
+    
 
 <h2>🤳Connect with me:</h2>
 
