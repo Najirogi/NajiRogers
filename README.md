@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Naji, an <a href="https://www.linkedin.com/in/naji-rogers-83139625b/">IT Professional</a></h1>
+### <h1>Hi, I'm Naji, an <a href="https://www.linkedin.com/in/najirogers/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
